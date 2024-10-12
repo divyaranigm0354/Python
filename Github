@@ -12,3 +12,5 @@ added not committed
 
 unchanged
 commit --unchanged
+
+cd .. // to come out of directory or folder
