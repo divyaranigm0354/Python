@@ -1,0 +1,14 @@
+Status of git
+
+Untrack files
+git cannot track a new files
+
+Modified
+Changed files
+
+Staged
+file is ready to commit
+added not committed
+
+unchanged
+commit --unchanged
